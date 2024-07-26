@@ -30,8 +30,8 @@
                                                "AzureML Data Scientist"
                                            ],
                                  "roleBeneficiaryObjID":  "2f8ea1fb-94d2-45a9-837b-b7e589daec23",
-                                 "Description":  "Your Object ID",
-                                 "principalType":  "User"
+                                 "Description":  "Some service principal??",
+                                 "principalType":  "ServicePrincipal"
                              }
                          ]
 }
